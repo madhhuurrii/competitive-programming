@@ -1,2 +1,2 @@
-# competitive-programming
-Contains all solved CP problems fron codechef and codeforces
+# Competitive-Programming
+Contains all solved CP problems from codechef, codeforces and Hackerrank
